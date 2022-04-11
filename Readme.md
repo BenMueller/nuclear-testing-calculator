@@ -1,6 +1,6 @@
 # Nuclear Test Yield Calculator
 
-Currently hosted from [Wonkpedia](https://calc.wonkpedia.org/nuclearyield)
+Currently hosted from [Wonkpedia](https://calc.wonkpedia.org/yield)
 
 Input the magnitude (Mb), as well as depth and propagation if available.
 
@@ -11,7 +11,7 @@ Input the magnitude (Mb), as well as depth and propagation if available.
 This site was built and maintained by [@madwonk](https://twitter.com/madwonk) to streamline work done by [Jeffrey Lewis](https://twitter.com/ArmsControlWonk) and bring it to a larger audience.
 
 ## How does this work?
-This site is a Jupyter notebook exported with [Voilà](https://github.com/voila-dashboards/voila). The source code is available on [Github](https://github.com/BenMueller)!
+This site is a Jupyter notebook exported with [Voilà](https://github.com/voila-dashboards/voila). The source code is available on [Github](https://github.com/BenMueller/nuclear-testing-calculator)!
 
 ## I've found a bug!
 Feel free to file a report on Github, or send me a message @madwonk on Twitter.
