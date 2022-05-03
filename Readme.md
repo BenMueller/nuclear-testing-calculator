@@ -2,9 +2,9 @@
 
 Currently hosted from [Wonkpedia](https://calc.wonkpedia.org/yield)
 
-Input the magnitude (Mb), as well as depth and propagation if available.
+Input the magnitude (Mb), as well as depth and propagation if available (under "Advanced").
 
-(todo) Alternatively, choose a preset to see historic nuclear estimates.
+Alternatively, choose a preset to see historic nuclear estimates.
 
 # Sources & Thanks
 
